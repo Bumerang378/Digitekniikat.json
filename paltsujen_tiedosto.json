@@ -1,0 +1,26 @@
+{
+  "palaveri": {
+    "aihe": "Uusi teknologia koulutuksessa",
+    "osallistujien_lukumaara": 15,
+    "osallistujat": [
+      "Anna Virtanen",
+      "Jussi Tammi",
+      "Maija Rantanen",
+      "Teemu Kivinen",
+      "Sanna Mäkelä",
+      "Juha Lehtinen",
+      "Mikko Kangas",
+      "Laura Laine",
+      "Pekka Nieminen",
+      "Tuomas Hakala",
+      "Eeva Salonen",
+      "Janne Virtanen",
+      "Sara Kujala",
+      "Olli Mäki",
+      "Liisa Niemi"
+    ],
+    "paikka": "Tampereen yliopisto, Pinni B 101",
+    "alkaminen": "2024-12-10T14:00:00Z",
+    "kesto": "2 tuntia"
+  }
+}
